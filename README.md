@@ -1,9 +1,11 @@
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Statistics-000000?style=flat-square&logo=stats&logoColor=white" alt="Statistics" />
 <img src="https://img.shields.io/badge/Probability-0072B8?style=flat-square&logo=math&logoColor=white" alt="Probability" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</div>
 
-# Probabilities_py
+
+## Probabilities_py
 Final project of probabilities and statistics where through the use of pandas and scipy a large volume of data is loaded to work with them. Content is in Spanish
 
 **In this project**
